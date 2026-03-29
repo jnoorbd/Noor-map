@@ -1,0 +1,7 @@
+{
+  "name": "Noor Map",
+  "description": "A comprehensive map application inspired by Google Maps, featuring place search, nearby discovery, and detailed location information powered by Gemini Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
